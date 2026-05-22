@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/unity,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=unity,macos,windows
 
-### macOS ###
+## macOS ##
 # General
 .DS_Store
 .AppleDouble
